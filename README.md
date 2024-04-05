@@ -7,3 +7,5 @@
 | `npm install`   | Установить зависимости                       |
 | `npm run dev`   | Запустить локально на http://localhost:8080` |
 | `npm run build` | Сделать сборку в папку `dist`                |
+
+## Деплой https://marksadykov.github.io/snake/
